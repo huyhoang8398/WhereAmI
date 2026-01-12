@@ -1,0 +1,5 @@
+# git
+.github/        export-ignore
+.git            export-ignore
+.gitattributes  export-ignore
+.gitignore      export-ignore
