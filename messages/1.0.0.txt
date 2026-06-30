@@ -1,0 +1,5 @@
+=> 1.0.0
+
+# Features
+
+- Initial release: cursor progress bar with percentage and line info (Duy Huy Hoang Do)

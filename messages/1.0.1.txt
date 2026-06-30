@@ -1,0 +1,11 @@
+=> 1.0.1
+
+# Features
+
+- Added animated mode: a shimmer sweep travels across the filled portion \
+of the bar instead of staying static
+- Shimmer fades light -> dark trailing the leading edge (█ -> ▓ -> ▒)
+- Added "animated" setting (WhereAmI.sublime-settings) to toggle \
+animation on/off, falling back to the original plain static bar when off
+- Animation auto-stops when a view closes or animation is disabled, so it \
+won't keep running in the background
