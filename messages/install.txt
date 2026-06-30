@@ -1,0 +1,11 @@
+                  Thanks for trying out the WhereAmI package!
+                  ======================================
+
+
+Tiny status bar indicator that shows you exactly where you are in the file.
+
+Shows a small progress bar + percentage + current/total line numbers.
+
+Because sometimes you just need to know… where the hell am I? 😅
+
+Want to make it animate? Head to Menu Bar -> Preferences -> Package Settings -> WhereAmI and enable Animation.
